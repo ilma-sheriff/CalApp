@@ -8,8 +8,7 @@ pip --version
 pip install flask
 
 # Run the project
-### Clone the repo 
-* git clone https://github.com/ilma-sheriff/CalApp.git
+### Clone the repo git clone https://github.com/ilma-sheriff/CalApp.git
 * cd CalApp/api
 * python api.py
 
