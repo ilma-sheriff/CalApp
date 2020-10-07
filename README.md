@@ -1,8 +1,8 @@
 # CalApp
 
 ## Once your command line is open, enter these commands:
-* python --version 
-* pip --version
+python --version 
+pip --version
 
 ## Next, you’ll need to install Flask. At the command line, type
 pip install flask
