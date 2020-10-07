@@ -14,5 +14,5 @@ pip install flask
 * Show most recent 10 event logs: http://0.0.0.0:5000/currentevents
 * Show all event logs: http://0.0.0.0:5000/allevents
 * Perform calculation
-  For example: http://0.0.0.0:5000/compute?user_name=%27userA%27&operation=10%2b10
-  http://0.0.0.0:5000/compute?user_name=%27userB%27&operation=10*10
+  ** For example: http://0.0.0.0:5000/compute?user_name=%27userA%27&operation=10%2b10 
+  ** http://0.0.0.0:5000/compute?user_name=%27userB%27&operation=10*10
