@@ -8,7 +8,10 @@ pip --version
 pip install flask
 
 # Run the project
-### You can directly git clone https://github.com/ilma-sheriff/CalApp.git
+### Clone the repo 
+* git clone https://github.com/ilma-sheriff/CalApp.git
+* cd CalApp/api
+* python api.py
 
 * Show the last 10 calculations descending from most recent to oldest: http://0.0.0.0:5000/currentevents
 * Perform calculations, for example: 
