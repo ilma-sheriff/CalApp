@@ -9,9 +9,8 @@ pip install flask
 
 # Run the project
 ### You can directly git clone https://github.com/ilma-sheriff/CalApp.git
-* Home - Show the most recent event logs: http://0.0.0.0:5000/
+
 * Show most recent 10 event logs: http://0.0.0.0:5000/currentevents
-* Show all event logs: http://0.0.0.0:5000/allevents
 * Perform calculation
   * For example: http://0.0.0.0:5000/compute?user_name=%27userA%27&operation=10%2b10 
   * http://0.0.0.0:5000/compute?user_name=%27userB%27&operation=10*10
