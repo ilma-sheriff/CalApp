@@ -12,5 +12,5 @@ pip install flask
 
 * Show the last 10 calculations descending from most recent to oldest: http://0.0.0.0:5000/currentevents
 * Perform calculations, for example: 
-  * http://0.0.0.0:5000/compute?user_name=%27userA%27&operation=10%2b10  ##addition
-  * http://0.0.0.0:5000/compute?user_name=%27userB%27&operation=10*10 ##multiplication
+  * For addition, http://0.0.0.0:5000/compute?user_name=%27userA%27&operation=10%2b10  
+  * For multiplication, http://0.0.0.0:5000/compute?user_name=%27userB%27&operation=10*10 
